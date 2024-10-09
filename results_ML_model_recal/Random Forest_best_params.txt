@@ -1,0 +1,1 @@
+{'classifier__class_weight': None, 'classifier__max_depth': 10, 'classifier__n_estimators': 100}
